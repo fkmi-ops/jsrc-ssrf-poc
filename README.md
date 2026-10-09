@@ -1,4 +1,4 @@
 # jsrc-ssrf-poc
 # poc
-![silver](http://jsrc-flag.jd.local/flag/activateSilverFlag/InvasionSilver/b4fbf6073e674e4ca0c3a1a1c4873d41)
-![gold](http://jsrc-flag.jd.local/flag/exchangeGoldFlag/InvasionSilver/b4fbf6073e674e4ca0c3a1a1c4873d41)
+![silver](http://jsrc-flag.jd.local/flag/activateSilverFlag/InvasionSilver/2fe68c0f8bea43a18667b0ed50d0ef52)
+![gold](http://jsrc-flag.jd.local/flag/exchangeGoldFlag/InvasionSilver/2fe68c0f8bea43a18667b0ed50d0ef52)
